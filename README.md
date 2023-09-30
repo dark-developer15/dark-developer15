@@ -4,9 +4,9 @@
 </div>
 
 - 👋 Hi, I’m Sarthak Tyagi
-- 👀 I’m interested in Learning and collaborating with others.
-- 🌱 I’m currently learning to react, node, js, etc.
-- 💞️ I’m looking to collaborate on some beginner issues on JAVA, C#, PYTHON, etc.
+- 👀 Interested in Learning and open to collaboration.
+- 🌱 Currently upskilling myself and looking for Job Opportunities.
+- 💞️ Having 10 months of experience as Associate SE in a Data Analyst team at a product-based company.
 - 📫 How to reach me:
 > - Email : sarthaktyagi363@gmail.com
 > - Twitter : https://twitter.com/TwtsTyagi
