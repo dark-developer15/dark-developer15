@@ -14,7 +14,7 @@ Greetings, fellow tech enthusiasts! 👋 I am a passionate software engineer wit
 
 🌱 I believe in collaborative growth and welcome feedback and contributions. Let's learn and code together, making a positive impact in the tech realm!
 
-💼 I am looking for Job Opportunities and would appreciate the help.
+💼 <em>I am looking for Job Opportunities and would appreciate the help.</em>
 > Skills - Java, Python, MySql, Cassandra, HTML/CSS, Javascript, Agile.
 
 ## 📫 How to reach me:
