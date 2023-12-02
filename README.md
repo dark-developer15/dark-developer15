@@ -21,3 +21,10 @@ Greetings, fellow tech enthusiasts! 👋 I am a passionate software engineer wit
 > - Email : sarthaktyagi363@gmail.com
 > - Twitter : https://twitter.com/TwtsTyagi
 > - LinkedIn : https://www.linkedin.com/in/sarthak-tyagi-9499b1162
+
+### HacktoberFest 2023
+[![An image of @darkdeveloper15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darkdeveloper15)](https://holopin.io/@darkdeveloper15)
+
+### Learning: December 2023 - Present
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/656b5b7c5145316d25a92476?variant=dark" alt="roadmap.sh"/></a>
+
