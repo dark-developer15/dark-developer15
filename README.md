@@ -19,7 +19,6 @@ Greetings, fellow tech enthusiasts! 👋 I am a passionate software engineer wit
 
 ## 📫 How to reach me:
 > - Email : sarthaktyagi363@gmail.com
-> - Twitter : https://twitter.com/TwtsTyagi
 > - LinkedIn : https://www.linkedin.com/in/sarthak-tyagi-9499b1162
 
 ### HacktoberFest 2023
