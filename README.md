@@ -8,18 +8,18 @@ Greetings, fellow tech enthusiasts! 👋 I am a passionate software engineer wit
 
 ## About Me
 
-🎓 I am a recent 2022 graduate in Computer Science, bringing fresh perspectives and a solid foundation in software development. My journey began at Gyan Ganga College of Technology, honing my skills and knowledge in the ever-evolving tech world.
+🎓 A 2022 graduate in Computer Science, bringing fresh perspectives and a solid foundation in software development. My journey began at Gyan Ganga College of Technology, honing my skills and knowledge in the ever-evolving tech world.
 
 🚀 During my tenure at SmartDrive, a subsidiary of Solera Inc., I had the privilege to immerse myself in various projects, gaining valuable experience and expertise in multiple programming languages, databases, and agile methodologies.
 
 🌱 I believe in collaborative growth and welcome feedback and contributions. Let's learn and code together, making a positive impact in the tech realm!
 
-💼 <em>I am looking for Job Opportunities and would appreciate the help.</em>
-> Skills - Java, Python, MySql, Cassandra, HTML/CSS, Javascript, Agile.
+💼 <em>Currently Growing as Backend Developer at Tech Mahindra.</em>
+> Skills - Java, Python, MySQL, Cassandra, Azure, AWS, Agile.
 
 ## 📫 How to reach me:
 > - Email : sarthaktyagi363@gmail.com
-> - LinkedIn : https://www.linkedin.com/in/sarthak-tyagi-9499b1162
+> - LinkedIn : https://www.linkedin.com/in/sarthaktyagi-engineer/
 
 ### HacktoberFest 2023
 [![An image of @darkdeveloper15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/darkdeveloper15)](https://holopin.io/@darkdeveloper15)
