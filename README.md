@@ -18,7 +18,7 @@ Greetings, fellow tech enthusiasts! 👋 I am a passionate software engineer wit
 > Skills - Java, Python, MySQL, Cassandra, Azure, AWS, Agile.
 
 ## 📫 How to reach me:
-> - Email : sarthaktyagi363@gmail.com
+> - Email : darkdeveloper15@gmail.com
 > - LinkedIn : https://www.linkedin.com/in/sarthaktyagi-engineer/
 
 ### HacktoberFest 2023
